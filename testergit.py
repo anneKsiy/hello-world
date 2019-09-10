@@ -1,4 +1,5 @@
 print("This is not a test,jk")
-print("This is a test")
+def sum(x,y):
+    pass
 
 
